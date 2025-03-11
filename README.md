@@ -3,7 +3,7 @@
 ## NAME : RUSHMITHA R
 
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+SIH 1653: WEB BASED SELECTOR -APPLICANT SIMULATION SOFTWARE
 
 
 ## Problem Description
