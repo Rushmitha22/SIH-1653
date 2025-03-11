@@ -12,7 +12,7 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 ## Problem Creater's Organization
 Ministry of Defence
 
-## Idea
+## IDEA
 Resume Review: Implement an AI-driven resume review system where users (selectors) can score resumes based on a variety of criteria like qualifications, keywords, or work experience.
 
 Interview Simulation: Use a chat-based or video-based interview system where the applicant responds to predefined questions, and the selector can score the answers.
@@ -30,16 +30,16 @@ Automated Screening Tools: Implement resume scoring based on criteria defined in
 Manual Screening Simulation: Allow selectors to manually review resumes, rate candidates based on specific criteria, and flag interesting applicants. Provide a space for notes and comments.
 
 
-## Proposed Solution / Architecture Diagram
+## PROPOSED SOLUTION / ARCHITECTURE DIAGRAM
 ![WEB ARCH 2](https://github.com/user-attachments/assets/47f403df-369b-42df-a714-59854ffb1177)
 
 
-## Use Cases
+## USE CASE
 ![WEB USE](https://github.com/user-attachments/assets/8aefc9cb-1f01-4314-adf3-6de51effae14)
 
 
 
-## Technology Stack
+## Technology Stack TECHNOLOGY STACK
 Frontend: React.js, Vue.js, or Angular for building interactive and dynamic user interfaces.
 
 Backend: Node.js, Django, or Flask to handle simulations, user management, and analytics.
@@ -50,7 +50,7 @@ Database: MongoDB or PostgreSQL for storing user profiles, applicants, and simul
 
 Cloud: AWS, Google Cloud, or Azure for scalable deployment.
 
-## Dependencies
+## DEPENDENCIES
 Mapping service- 10 days
 
 Data collection- 10 days
